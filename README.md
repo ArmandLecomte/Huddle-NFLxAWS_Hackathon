@@ -24,7 +24,7 @@ huddle-simulation/   interactive game visualizer + its README
 
   ## ▶️ Launch
 
-  **Notebooks** (run cells top to bottom, in order 01 → 02 → 03):
+  **Notebooks** (run cells top to bottom, in order 01 → 02 → 03 → 04):
 
   ```bash
   jupyter notebook notebooks/

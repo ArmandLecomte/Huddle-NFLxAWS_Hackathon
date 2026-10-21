@@ -13,6 +13,7 @@ Every chart comes with a plain-language "NFL Basics" note so you learn the sport
 | 1 | `01_introduction_nfl_basics.ipynb` | How a season/game is structured, scores, downs & distance — the fundamentals |
 | 2 | `02_offensive_strategies.ipynb` | How teams move the ball through the air: formations, play action, coverage schemes |
 | 3 | `03_team_comparison.ipynb` | Team rankings, QB performance, defensive pressure, and a head-to-head report card |
+| 4 | `04_actions_and_outcomes.ipynb` | Which play-calling actions produce the best outcomes, and a data-driven "playbook" for how to play better and evolve |
 
 ## 📊 About the data
 
