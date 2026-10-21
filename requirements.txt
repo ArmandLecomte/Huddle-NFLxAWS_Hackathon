@@ -1,0 +1,8 @@
+# NFL Data Project dependencies
+# Install with: pip install -r requirements.txt
+
+pandas>=2.1
+numpy>=1.26
+matplotlib>=3.9
+seaborn>=0.13
+notebook>=7.0
