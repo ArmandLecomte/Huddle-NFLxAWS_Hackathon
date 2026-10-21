@@ -6,7 +6,7 @@ is made. Built with matplotlib — step forward and back with the arrow keys.
 ## ▶️ Run it
 
 ```bash
-cd simulation
+cd huddle-simulation
 python game_simulation.py                 # opening game: DAL @ TB (Week 1)
 python game_simulation.py --game 2021091201   # a specific game (PIT @ BUF)
 python game_simulation.py --list          # list every available game + playId
